@@ -4,5 +4,6 @@ class ContactsController < ApplicationController
   end
 
   def create
+    @contact = Contact.new
   end
 end
