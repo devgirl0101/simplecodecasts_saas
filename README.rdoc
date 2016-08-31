@@ -1,6 +1,7 @@
 == README
 
 test app for class project. 
+@devgirl0101
 
 Things you may want to cover:
 
